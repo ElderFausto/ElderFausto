@@ -1,8 +1,8 @@
 <h1>🔥 Olá, meu nome é Élder Fausto 🤙🏻</h1>
 
 - Pernambucano, 25 anos ⛪
-- Profissional de educação física 🏄🏻‍♂️
-- Estudante de desenvolvimento web fullstack 💻
+- Formado em Educação Física 🏄🏻‍♂️
+- Aspirante a Desenvolvedor Web fullstack Jr 💻
 
 
 <div align="center">
