@@ -2,7 +2,7 @@
 
 ## - Pernambucano, 25 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
-## - Aspirante a Desenvolvedor Web fullstack Jr 💻
+## - Aspirante a Desenvolvedor Web Fullstack Jr 💻
 
 
 <div align="center">
