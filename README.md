@@ -1,4 +1,10 @@
-<h1>Olá, meu nome é Élder Fausto 🤙🏻</h1>
+<h1>🔥 Olá, meu nome é Élder Fausto 🤙🏻</h1>
+
+- Pernambucano, 25 anos ⛪
+- Profissional de educação física 🏄🏻‍♂️
+- Estudante de desenvolvimento web fullstack 💻
+
+
 <div align="center">
   <a href="https://github.com/elderfausto">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=elderfausto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
