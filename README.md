@@ -2,7 +2,7 @@
 
 ## - Pernambucano, 25 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
-## - Aspirante a Desenvolvedor Web Fullstack Jr 💻
+## - Desenvolvedor Front-End 💻
 
 
 <div align="center">
@@ -35,4 +35,6 @@
   <a href="https://www.linkedin.com/in/elderfausto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://s.team/p/gknt-gbnv/VPHPFNBQ" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 
