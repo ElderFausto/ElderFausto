@@ -34,10 +34,7 @@
   <a href = "elderfavsto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elderfausto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://s.team/p/gknt-gbnv/VPHPFNBQ" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=elderfausto)
 </div>
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=elderfausto)
-
- ##   Here is a random joke that'll make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api)
