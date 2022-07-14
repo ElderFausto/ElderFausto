@@ -36,5 +36,7 @@
   <a href="https://s.team/p/gknt-gbnv/VPHPFNBQ" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=elderfausto)
 
