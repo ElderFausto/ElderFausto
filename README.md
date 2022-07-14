@@ -36,7 +36,8 @@
   <a href="https://s.team/p/gknt-gbnv/VPHPFNBQ" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elderfausto&theme=blue-green)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=elderfausto)
 
+ ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
