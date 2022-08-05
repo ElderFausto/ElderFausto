@@ -2,7 +2,7 @@
 
 ## - Pernambucano, 25 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
-## - Desenvolvedor Front-End 💻
+## - Desenvolvedor Front-End JR 💻
 
 
 <div align="center">
