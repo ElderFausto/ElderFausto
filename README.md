@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Élder Fausto, I'm brazilian <img src="https://user-images.githubusercontent.com/85243693/188489502-07c8033b-9d45-4874-b7b8-3954c002e8dc.png"  width="20px" height="10px" />
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Élder Fausto, I'm brazilian <img src="https://user-images.githubusercontent.com/85243693/188489502-07c8033b-9d45-4874-b7b8-3954c002e8dc.png"  width="10px" height="10px" />
 
 ## - Pernambucano, 26 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
