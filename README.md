@@ -12,7 +12,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img alt="Me" align="center" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188485933-a4f35320-a70f-4de3-91e3-f9dcd43b0976.png">
   <img align="center" alt="HTML" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481013-b253c304-cb8b-4b18-bc6b-fcc23ae15d16.png">
   <img align="center" alt="CSS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481155-5268d517-b18f-40d5-99f2-6dd7dfc7363e.png">
   <img align="center" alt="JS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188485710-28d269c6-00c7-44eb-95c2-097c2da8453f.png">
