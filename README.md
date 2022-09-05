@@ -15,8 +15,7 @@
   <img align="center" alt="HTML" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481013-b253c304-cb8b-4b18-bc6b-fcc23ae15d16.png">
   <img align="center" alt="CSS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481155-5268d517-b18f-40d5-99f2-6dd7dfc7363e.png">
   <img align="center" alt="Js" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482260-f0ac62c0-2f31-45e4-8b9d-7ec62ca21c0d.png">
-  <img align="center" alt="React" height="60" width="60" src="![image](https://user-images.githubusercontent.com/85243693/188482525-53857dde-7156-4b0f-8646-ab4892e7a838.png)
-">
+  <img align="center" alt="React" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482525-53857dde-7156-4b0f-8646-ab4892e7a838.png">
   <img align="center" alt="Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
   
  
