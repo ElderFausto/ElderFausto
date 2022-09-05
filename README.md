@@ -12,9 +12,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481013-b253c304-cb8b-4b18-bc6b-fcc23ae15d16.png">
-  <img align="center" alt="CSS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481155-5268d517-b18f-40d5-99f2-6dd7dfc7363e.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://user-images.githubusercontent.com/85243693/188481013-b253c304-cb8b-4b18-bc6b-fcc23ae15d16.png">
+  <img align="center" alt="CSS" height="50" width="50" src="https://user-images.githubusercontent.com/85243693/188481155-5268d517-b18f-40d5-99f2-6dd7dfc7363e.png">
+  <img align="center" alt="Js" height="50" width="50" src="!https://user-images.githubusercontent.com/85243693/188481799-aa1cd2b2-8098-406c-a5df-d4029476709c.png">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
   
