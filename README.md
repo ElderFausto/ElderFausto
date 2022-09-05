@@ -16,8 +16,7 @@
   <img align="center" alt="CSS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481155-5268d517-b18f-40d5-99f2-6dd7dfc7363e.png">
   <img align="center" alt="JS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482260-f0ac62c0-2f31-45e4-8b9d-7ec62ca21c0d.png">
   <img align="center" alt="React" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482525-53857dde-7156-4b0f-8646-ab4892e7a838.png">
-  <img align="center" alt="DataBase" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482940-aa0cef33-e55e-4c70-a95a-7c3de4b1674b.png
-">
+  <img align="center" alt="DataBase" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482940-aa0cef33-e55e-4c70-a95a-7c3de4b1674b.png">
   
  
   
