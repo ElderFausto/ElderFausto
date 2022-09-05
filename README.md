@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Olá, meu nome é Élder Fausto 🐱‍🚀
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Élder Fausto, I'm Brazilian 🐱‍🚀
 
 ## - Pernambucano, 26 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
