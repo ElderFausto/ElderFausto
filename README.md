@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Élder Fausto 🌴</h1>
+<h1>Olá, meu nome é Élder Fausto 🌴</h1><img alt="Me" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188485933-a4f35320-a70f-4de3-91e3-f9dcd43b0976.png">
 
 ## - Pernambucano, 26 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
