@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Élder Fausto, I'm brazilian
+## <h1 align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Élder Fausto, I'm brazilian</h1>
 
 ## - Pernambucano, 26 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
@@ -15,7 +15,8 @@
   <img align="center" alt="HTML" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481013-b253c304-cb8b-4b18-bc6b-fcc23ae15d16.png">
   <img align="center" alt="CSS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481155-5268d517-b18f-40d5-99f2-6dd7dfc7363e.png">
   <img align="center" alt="JS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188485710-28d269c6-00c7-44eb-95c2-097c2da8453f.png">
-  <img align="center" alt="React" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482525-53857dde-7156-4b0f-8646-ab4892e7a838.png">
+  <img align="center" alt="React" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482525-53857dde-7156-4b0f-8646-ab4892e7a838.png">![anime-typing (1)](https://user-images.githubusercontent.com/85243693/188505295-66e0ffda-01c8-441f-bd4a-6dfb5f95ef95.gif)
+
   <img align="center" alt="DataBase" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482940-aa0cef33-e55e-4c70-a95a-7c3de4b1674b.png">
   
  
