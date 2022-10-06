@@ -4,7 +4,7 @@
 
 ## <h1 align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Élder Fausto, I'm brazilian</h1>
 
-## - Pernambucano, 26 anos. ⛪
+## - Pernambucano, 26 anos ⛪
 ## - Formado em Educação Física 🏄🏻‍♂️
 ## - Desenvolvedor Front-End JR 💻
 
