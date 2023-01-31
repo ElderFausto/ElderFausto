@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> Hi, my name is Élder Fausto.</h1>
 
-<p>I'm brazilian, I graduated in Physical Education from UFPE (2021). I have experience in training athletes and Paralympians, as well as promoting health and strength training with different special groups</p>
+<p>I'm brazilian, I graduated in Physical Education from UFPE (2021). I have experience in training athletes and Paralympians, as well as promoting health and strength training with different special groups.</p>
 
 <p>Currently, I am a student of Systems Analysis and Development and Web Development. In addition, I am always looking to expand my knowledge and skills, I am excited to acquire new knowledge and develop my skills as a Junior Full Stack Developer. </p>
 
