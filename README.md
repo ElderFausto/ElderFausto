@@ -1,14 +1,14 @@
 <div>
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
 </div>
+<h1 align="center"> Hi, my name is Élder Fausto.</h1>
 
-## <h1 align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> My name is Élder Fausto, I'm brazilian</h1>
+<p>I'm brazilian, I graduated in Physical Education from UFPE (2021). I have experience in training athletes and Paralympians, as well as promoting health and strength training with different special groups</p>
 
-## - Pernambucano, 26 anos ⛪.
-## - Formado em Educação Física 🏄🏻‍♂️
-## - Desenvolvedor Front-End JR 💻
+<p>Currently, I am a student of Systems Analysis and Development and Web Development. In addition, I am always looking to expand my knowledge and skills, I am excited to acquire new knowledge and develop my skills as a Junior Full Stack Developer. </p>
 
-
+<p>I have experience working in teams and am proactive in problem-solving. I am excited to participate in challenging projects and learn from experienced colleagues.</p>
+<p align="center">_____________________________________________________________________________________________________________________________________________________________</p>
 <div align="center">
   <a href="https://github.com/elderfausto">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=elderfausto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -32,7 +32,6 @@
   ##
  
 <div> 
-  <a href = "elderfavsto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elderfausto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
