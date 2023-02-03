@@ -1,7 +1,7 @@
 <div>
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
 </div>
-<h1 align="center"> Hi, my name is Élder Fausto.</h1>
+<h1 align="center"> Welcome, my name is Élder Fausto.</h1>
 
 <p>I'm brazilian, I graduated in Physical Education from UFPE (2021). I have experience in training athletes and Paralympians, as well as promoting health and strength training with different special groups.</p>
 
