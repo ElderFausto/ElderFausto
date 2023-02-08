@@ -5,9 +5,9 @@
 
 <p>I'm brazilian, I graduated in Physical Education from UFPE (2021). I have experience in training athletes and Paralympians, as well as promoting health and strength training with different special groups.</p>
 
-<p>Currently, I'm a student of Systems Analysis and Development and Web Development. In addition, I am always looking to expand my knowledge and skills, I'm excited to acquire new knowledge and develop my skills as a Junior Full Stack Developer. </p>
+<p>Currently, I'm a student of Systems Analysis and Development and Web Development. In addition, I'm always looking to expand my knowledge and skills, I'm excited to acquire new knowledge and develop my skills as a Junior Full Stack Developer. </p>
 
-<p>I have experience working in teams and am proactive in problem-solving. I am excited to participate in challenging projects and learn from experienced colleagues.</p>
+<p>I have experience working in teams and am proactive in problem-solving. I'm excited to participate in challenging projects and learn from experienced colleagues.</p>
 <p align="center">_________________________________________________________________________________________________________________________________________________</p>
 <div align="center">
   <a href="https://github.com/elderfausto">
