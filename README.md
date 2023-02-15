@@ -1,6 +1,3 @@
-<div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/>
-</div>
 <h1 align="center"> Welcome, my name is Élder Fausto.</h1>
 
 <p>I'm brazilian, I graduated in Physical Education from UFPE (2021). I have experience in training athletes and Paralympians, as well as promoting health and strength training with different special groups.</p>
@@ -8,7 +5,7 @@
 <p>Currently, I'm a student of Systems Analysis and Development and Web Development. In addition, I'm always looking to expand my knowledge and skills, I'm excited to acquire new knowledge and develop my skills as a Junior Full Stack Developer. </p>
 
 <p>I have experience working in teams and am proactive in problem-solving. I'm excited to participate in challenging projects and learn from experienced colleagues.</p>
-<p align="center">_________________________________________________________________________________________________________________________________________________</p>
+<p align="center">________________________________________________________________________________________________________________________________________________________</p>
 <div align="center">
   <a href="https://github.com/elderfausto">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=elderfausto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
