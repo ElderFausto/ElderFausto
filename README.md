@@ -19,11 +19,6 @@
   <img align="center" alt="React" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482525-53857dde-7156-4b0f-8646-ab4892e7a838.png">!
 
   <img align="center" alt="DataBase" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482940-aa0cef33-e55e-4c70-a95a-7c3de4b1674b.png">
-  
- 
-  
-
-  <img align="right" alt="PE" height="150" style="border-radius:50px;" src="https://www.estadosecapitaisdobrasil.com/wp-content/uploads/2014/09/bandeira-pernambuco.png">
 </div>
   
   ##
