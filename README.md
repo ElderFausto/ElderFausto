@@ -5,20 +5,20 @@
 <p>Currently, I'm a student of Systems Analysis and Development and Web Development. In addition, I'm always looking to expand my knowledge and skills, I'm excited to acquire new knowledge and develop my skills as a Junior Full Stack Developer.</p>
 
 <p>I have experience working in teams and am proactive in problem-solving. I'm excited to participate in challenging projects and learn from experienced colleagues.</p>
-<p align="center">_________________________________________________________________________________________________________________________________________________</p>
+<p align="center">____________________________________________________________________________________________________________________________________</p>
+
 <div align="center">
   <a href="https://github.com/elderfausto">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=elderfausto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfausto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElderFausto&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElderFausto&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481013-b253c304-cb8b-4b18-bc6b-fcc23ae15d16.png">
-  <img align="center" alt="CSS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188481155-5268d517-b18f-40d5-99f2-6dd7dfc7363e.png">
-  <img align="center" alt="JS" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188485710-28d269c6-00c7-44eb-95c2-097c2da8453f.png">
-  <img align="center" alt="React" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482525-53857dde-7156-4b0f-8646-ab4892e7a838.png">
-  <img align="center" alt="DataBase" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/227566028-6492aaa5-e7ff-41ca-86a5-31fb278f952b.png">
-  <img align="center" alt="DataBase" height="60" width="60" src="https://user-images.githubusercontent.com/85243693/188482940-aa0cef33-e55e-4c70-a95a-7c3de4b1674b.png">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript,ts,java,react,svelte,bootstrap,nodejs,mysql,mongodb,firebase,postman,git," />
+    </a>
+  </p>
 </div>
   
 ##
