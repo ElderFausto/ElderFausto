@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/elderfausto">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElderFausto&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-  <img width="48%" height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElderFausto&theme=dark"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElderFausto&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <img width="48%" height="145em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElderFausto&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
