@@ -5,7 +5,7 @@
 <p>Currently, I'm a student of Systems Analysis and Development and Web Development. In addition, I'm always looking to expand my knowledge and skills, I'm excited to acquire new knowledge and develop my skills as a Junior Full Stack Developer.</p>
 
 <p>I have experience working in teams and am proactive in problem-solving. I'm excited to participate in challenging projects and learn from experienced colleagues.</p>
-<p align="center">________________________________________________________________________________________________________________________________________</p>
+<p align="center">___________________________________________________________________________________________________________________________________________</p>
 
 <div align="center">
   <a href="https://github.com/elderfausto">
