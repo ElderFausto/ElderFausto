@@ -1,6 +1,5 @@
-<h1 align="center">Ora et labora.</h1>
-
-// <p align="center">&nbsp;</p>
+##<h1 align="center">Ora et labora.</h1>
+##<p align="center">&nbsp;</p>
 
 <div align="center">
   <a href="https://github.com/elderfausto">
