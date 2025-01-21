@@ -1,6 +1,3 @@
-##<h1 align="center">Ora et labora.</h1>
-##<p align="center">&nbsp;</p>
-
 <div align="center">
   <a href="https://github.com/elderfausto">
   <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElderFausto&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
