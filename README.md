@@ -1,6 +1,6 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Ora et labora.</h1>
 
-<p align="center">&nbsp; Ora et labora. </p>
+// <p align="center">&nbsp;</p>
 
 <div align="center">
   <a href="https://github.com/elderfausto">
