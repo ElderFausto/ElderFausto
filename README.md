@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://github.com/elderfausto">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElderFausto&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElderFausto&theme=dark"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElderFausto&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElderFausto&theme=codeSTACKr"/>
+  <img height="148em" src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elderfausto&theme=yeblu"/>
+  <img height="148em" src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elderfausto&theme=yeblu"/>
 </div>
   
 <div style="display: inline_block"><br>
