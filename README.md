@@ -11,7 +11,7 @@
     </a>
   </p>
 </div>
-<img width="1124" height="434" alt="image" src="https://github.com/user-attachments/assets/77de4fde-0439-4db5-af78-f2287831223c" />
+<!-- <img width="1124" height="434" alt="image" src="https://github.com/user-attachments/assets/77de4fde-0439-4db5-af78-f2287831223c" /> -->
 
 
 <!-- <img src="https://skills.syvixor.com/api/icons?i=linux,popos,intellijidea,,docker,idea,java,spring,maven,gradle,postgresql,mongodb,angular"/>-->
